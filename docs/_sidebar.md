@@ -1,0 +1,8 @@
+- [Home](/)
+- **Learn Git Journey**
+    - [Create local Git repository](exercise_1.md)
+    - [Fetch vs Pull](exercise_2.md)
+    - [Branches](exercise_3.md)
+- **Beyond Basics**
+    - [Rebase your commits](exercise_4.md)
+    - [Pull requests](exercise_5.md)
