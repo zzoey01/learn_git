@@ -57,6 +57,18 @@ OR
 git stash pop
 ```
 
+## Prerequisites
+Before moving on to 3. Merge branches, please commit and push your changes in the newly-created branch.
+- Please follow the steps in Create local Git repository, V. Push the changes into your master branch
+- Please ensure there is no merge conflict
+
+
 ## 3. Merge branches
 In software development teams, you are typically required to make pull requests or PR in short. For this exercise, we shall merge the branches together without PR to demonstrate `git merge` command. PR will be explained in Beyond Basics section.
 
+```console
+#Switch to master branch
+git checkout master
+
+#Pull the changes from the newly-created branch
+```

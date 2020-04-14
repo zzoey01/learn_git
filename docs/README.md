@@ -3,6 +3,9 @@ This repository is to practice and learn how to use git commands. In this guide,
 
 I try to make it less technical and hopefully easier to understand through the step by step exercises.
 
+>Disclaimer
+I am no expert myself, but am sharing based on how I learnt git commands when I first started. Hope it helps!
+
 # Prerequisites
 1. A git repository must be created before starting this tutorial.
 2. To be bold & try out these command on the terminal :D
@@ -20,8 +23,9 @@ In each exercise under the Learn Git Journey, there will be key focus for the re
     Optional : `diff`
 3. _**Create branches**_
     `stash`,`branch`, `checkout`, `merge`
-**Beyond Basics**
+**Beyond Basics (WIP)**
 4. _**Rebase your commits**_
+5. _**Pull requests**_
 
 
 
