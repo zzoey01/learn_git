@@ -71,4 +71,15 @@ In software development teams, you are typically required to make pull requests 
 git checkout master
 
 #Pull the changes from the newly-created branch
+git merge <unique_branch_name>
+```
+
+After merging, while you don't have to delete the local branch immediately, it is good practice to do a frequent cleanup of local branches once in while to only keep branches that you are still working on. 
+
+```
+#Check existing local branches
+git branch
+
+#Delete the intended branch
+git branch -d <unique_branch_name>
 ```
