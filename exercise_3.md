@@ -1,10 +1,11 @@
 # Branches
+_**The**_ `git` _**commands that will be used in this exercise are**_ `branch`, `stash`, `checkout`, `merge`.
 
 It is always good practice to do branching strategy when implementing new features. This is especially critical when working in a software development team. 
 
 I am no expert, so I shall leave it to the experienced/experts to explain. Do look at the links provided! Examples of branching strategy are [Git Flow](https://nvie.com/posts/a-successful-git-branching-model/) or [GitHub Flow](https://guides.github.com/introduction/flow/). Note: GitHub Flow has a nice graphic to explain the flow, do check it out!
 
-## Prerequisites
+## Prerequisites {docsify-ignore}
 Please create a text file in your local Git repository.
  
 ```console
@@ -57,7 +58,7 @@ OR
 git stash pop
 ```
 
-## Prerequisites
+## Prerequisites {docsify-ignore}
 Before moving on to 3. Merge branches, please commit and push your changes in the newly-created branch.
 - Please follow the steps in Create local Git repository, V. Push the changes into your master branch
 - Please ensure there is no merge conflict

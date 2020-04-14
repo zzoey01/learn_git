@@ -43,3 +43,4 @@ If you are interested on how the documentation is created, you can go learn abou
 -[Git Flow](https://nvie.com/posts/a-successful-git-branching-model/) 
 - [GitHub Flow](https://guides.github.com/introduction/flow/)
 - [Quick Tip: Leveraging the Power of Git Stash](https://code.tutsplus.com/tutorials/quick-tip-leveraging-the-power-of-git-stash--cms-22988)
+-[Git: Merge Branch into Master](https://stackabuse.com/git-merge-branch-into-master/)
