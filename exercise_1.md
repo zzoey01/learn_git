@@ -94,7 +94,7 @@ git remote add origin https://github.com/bernicecpz/learn_git.git
 
 I suggest you to read this article on some good practices to [write good commit messages](https://chris.beams.io/posts/git-commit/).  
 
-<small>*Note: In the event you forget to commit first, you will be prompted to either commit your changes or stash them before merging.* `merge` will be explained in detailed under the "Create branches" section.</small>
+<small>*Note: In the event you forget to commit first, you will be prompted to either commit your changes or stash them before merging.* `merge` *will be explained in detailed under the "Create branches" section*.</small>
 
 ### V. Push the changes into your master branch
 If it is your first commit, it's fine to push directly into your master branch. 
