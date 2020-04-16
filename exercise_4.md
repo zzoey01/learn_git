@@ -33,3 +33,7 @@ However do note that `git rebase` rewrites the history of the branch by creating
     1. Rewriting project history may cause catastrophic impact for collaboration workflow
     2. May lose context provided by a merge commit, i.e. when did the changes get incorporated into the features.
 
+### Rebase Manual
+
+
+### Rebase Interactive
