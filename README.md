@@ -23,16 +23,18 @@ In each exercise under the Learn Git Journey, there will be key focus for the re
     Optional : `diff`
 3. _**Create branches**_
     `stash`,`branch`, `checkout`, `merge`
+
 **Beyond Basics (WIP)**
-4. _**Rebase your commits**_
-5. _**Pull requests**_
 
-
-
+ 4. _**Rebase your commits**_
+    `rebase`
+ 5. _**Pull requests**_
+    This will be done through the GitHub webpage
 
 
 # Others
-If you are interested on how the documentation is created, you can go learn about Docsify! It is a good way to practice Markdown language.
+- If you are interested on how the documentation is created, you can go learn about Docsify! It is a good way to practice Markdown language.
+- As this guide is written in hope to flatten the learning curve for git for non-technical users/beginners, please do feel free to contribute or add onto the guide to make it more reader-friendly in layman terms.
 
 # Sources
 - Intro Tasks written by Hanyu and Chun Teck
